@@ -1,3 +1,21 @@
-Problem 2
+2. Add three numbers and print the total
 
-LOST - Not Pushed
+His little sister now wants a program to read three numbers, add them together and print their total.
+
+A. Prompt user to input 3 numbers in 3 separate boxes
+   Algorithm: result = x + y + z
+   put the 3 numbers into 3 separate variables, x, y, z
+   add the 3 variables together
+   output result
+   
+B. input- three numberInput
+   processing- x+y+z
+   output- result  
+   
+C. Sequence order
+
+D. input variable - x, y, z
+   output variable - result
+
+E. 1 + 1 + 1 = 3
+   2 + 2 + 2 = 6
